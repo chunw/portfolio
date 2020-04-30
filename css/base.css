@@ -122,7 +122,6 @@ main {
 	font-size: 1em;
 	font-weight: bold;
 	margin: 0;
-	padding: 0 1em;
 }
 
 .codrops-links {
@@ -131,6 +130,7 @@ main {
 	justify-content: center;
 	text-align: center;
 	white-space: nowrap;
+	padding-right: 1.5em;
 }
 
 .codrops-icon {
