@@ -16,7 +16,9 @@ body {
 }
 
 .back {
-    font-size: 4em;
+    font-size: 3em;
+    line-height: 1.5em;
+    padding-bottom: 1em;
 }
 .title {
     text-align: right;
